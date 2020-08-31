@@ -1,3 +1,6 @@
+#0L01009 kobayashi ryosuke 
+#本体はwebサイトを参照しつつ作成
+
 # ライブラリのインポート
 from flask import Flask, request, render_template
 from datetime import datetime
